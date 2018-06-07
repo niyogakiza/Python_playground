@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4de08cf-738a-4da6-a115-58c919f14747" name="Default" comment="" />
+    <list default="true" id="b4de08cf-738a-4da6-a115-58c919f14747" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="String.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/String.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+            <state relative-caret-position="234">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lists.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -47,6 +60,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -54,6 +70,7 @@
         <option value="$PROJECT_DIR$/numbers.py" />
         <option value="$PROJECT_DIR$/strings.py" />
         <option value="$PROJECT_DIR$/String.py" />
+        <option value="$PROJECT_DIR$/Lists.py" />
       </list>
     </option>
   </component>
@@ -62,6 +79,9 @@
     <option name="y" value="32" />
     <option name="width" value="1132" />
     <option name="height" value="624" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -83,6 +103,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="add_unversioned_files" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -97,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.String">
+  <component name="RunManager" selected="Python.Lists">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="firstpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +132,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="firstpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,9 +195,11 @@
       <item itemvalue="Python.HelloWorld" />
       <item itemvalue="Python.numbers" />
       <item itemvalue="Python.String" />
+      <item itemvalue="Python.Lists" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lists" />
         <item itemvalue="Python.String" />
         <item itemvalue="Python.numbers" />
         <item itemvalue="Python.HelloWorld" />
@@ -186,7 +227,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32827324" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32637572" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22580644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -239,6 +280,9 @@
     <entry file="file://$PROJECT_DIR$/strings.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -248,8 +292,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/String.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        <state relative-caret-position="234">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
