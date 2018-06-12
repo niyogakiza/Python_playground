@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4de08cf-738a-4da6-a115-58c919f14747" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
-    </list>
+    <list default="true" id="b4de08cf-738a-4da6-a115-58c919f14747" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +41,8 @@
       <file leaf-file-name="Lists.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="180">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -221,7 +217,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="32" width="1132" height="624" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16561656" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -229,9 +224,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32827324" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32637572" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22580644" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22580644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31688803" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31688803" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -299,8 +294,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="180">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
